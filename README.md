@@ -1,2 +1,2 @@
-# name-entity-recognition-service
+# whisper-service
 Name Entity Recognition Service using Fastapi, Space and Docker
